@@ -1,0 +1,17 @@
+.parrafoAzul{
+  color: blue;
+}
+
+.formContainer{
+  margin-top: 10px;
+}
+
+.input2-deshabilitado{
+  background-color: rgb(203, 203, 203);
+  cursor: not-allowed;
+}
+
+.boton:disabled{
+  background-color: gray;
+  cursor: not-allowed;
+}
